@@ -1,6 +1,6 @@
 [project]
 name = "file-extension-mapper"
-version = "0.1.0"
+version = "0.1.1"
 description = "Renames files in a directory by mapping old extensions to new ones with conflict resolution."
 requires-python = ">=3.10"
 dependencies = []
